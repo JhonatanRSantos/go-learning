@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/JhonatanRSantos/course/V1/deck"
+	"github.com/JhonatanRSantos/go-learning/V1/deck"
 )
 
 func main() {
