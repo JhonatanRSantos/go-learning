@@ -1,3 +1,3 @@
-module github.com/JhonatanRSantos/course/V1
+module github.com/JhonatanRSantos/go-learning/V1
 
 go 1.16
