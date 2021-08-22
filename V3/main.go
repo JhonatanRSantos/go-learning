@@ -32,4 +32,9 @@ func main() {
 	personFour := interfaces.NewPerson()
 	personFour.UpdateFirstName("King", []string{"Ones"})
 	personFour.Print()
+
+	pointer := &personFour
+
+	fmt.Printf("Pointer Add:: %p\n", &pointer)
+	fmt.Printf("Person   Add:: %p\n", &personFour)
 }
